@@ -1,0 +1,152 @@
+[
+  {
+    "id": "4a588d6c-27d5-42df-9d5e-7d819b25de25",
+    "name": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "format": "ebook",
+    "average_score": 4.1,
+    "categories": ["Mystery", "Thriller"],
+    "position": 8,
+    "image": "https://m.media-amazon.com/images/I/91rACa-ljwL._SL1500_.jpg"
+  },
+  {
+    "id": "7e9eabb3-9f84-4aa7-8080-5a73147a2e5e",
+    "name": "The Alchemist",
+    "author": "Paulo Coelho",
+    "format": "audiobook",
+    "average_score": 4.9,
+    "categories": ["Fiction", "Adventure"],
+    "position": 9,
+    "image": "https://i.harperapps.com/covers/9780062315007/y450-274.jpg"
+  },
+  {
+    "id": "0dc54559-d48d-4a3b-9018-2f3c8a57846d",
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "format": "ebook",
+    "average_score": 4.6,
+    "categories": ["Fantasy", "Adventure"],
+    "position": 6,
+    "image": "https://images.booksense.com/images/521/045/9780544045521.jpg"
+  },
+  {
+    "id": "3e8f84a3-df75-4c4c-b1e5-4c8e1683998e",
+    "name": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "format": "ebook",
+    "average_score": 4.0,
+    "categories": ["Classic", "Fiction"],
+    "position": 1,
+    "image": "https://m.media-amazon.com/images/I/91YXaY-I9VS._SL1500_.jpg"
+  },
+  {
+    "id": "b6502387-9a8c-4534-90a9-29f0e51c84de",
+    "name": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "format": "audiobook",
+    "average_score": 4.8,
+    "categories": ["Fantasy", "Young Adult"],
+    "position": 2,
+    "image": "https://m.media-amazon.com/images/I/71-++hbbERL._AC_SL1000_.jpg"
+  },
+  {
+    "id": "3e04721d-2b81-424d-86b8-91e4aee1c1aa",
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "format": "ebook",
+    "average_score": 4.7,
+    "categories": ["Classic", "Fiction"],
+    "position": 3,
+    "image": "https://images.booksense.com/images/467/935/9780060935467.jpg"
+  },
+  {
+    "id": "e89f61ef-9477-4ae0-a462-2a39cb399f97",
+    "name": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "format": "ebook",
+    "average_score": 4.3,
+    "categories": ["Young Adult", "Dystopian"],
+    "position": 10,
+    "image": "https://m.media-amazon.com/images/I/71un2hI4mcL._SL1500_.jpg"
+  },
+  {
+    "id": "831db02e-cd05-4a32-90d4-8e80eeb8bc2e",
+    "name": "The Help",
+    "author": "Kathryn Stockett",
+    "format": "ebook",
+    "average_score": 4.8,
+    "categories": ["Historical Fiction", "Drama"],
+    "position": 15,
+    "image": "https://images.booksense.com/images/200/232/9780425232200.jpg"
+  },
+  {
+    "id": "5ffeb447-1d5b-460f-bb73-9c30ac3b8d47",
+    "name": "The Road",
+    "author": "Cormac McCarthy",
+    "format": "ebook",
+    "average_score": 4.4,
+    "categories": ["Fiction", "Post-apocalyptic"],
+    "position": 11,
+    "image": "https://images.booksense.com/images/779/776/9781419776779.jpg"
+  },
+  {
+    "id": "0d6ff8c9-9e07-4795-b5a3-d640b82f0091",
+    "name": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "format": "audiobook",
+    "average_score": 4.5,
+    "categories": ["Fantasy", "Romance"],
+    "position": 14,
+    "image": "https://m.media-amazon.com/images/I/61NPszTwZUL._SL1200_.jpg"
+  },
+  {
+    "id": "2df5c63b-d3d4-4ff0-8483-80aa02a5fb2c",
+    "name": "Educated",
+    "author": "Tara Westover",
+    "format": "audiobook",
+    "average_score": 4.7,
+    "categories": ["Autobiography", "Nonfiction"],
+    "position": 12,
+    "image": "https://i.harperapps.com/covers/9781443452489/y450-274.jpg"
+  },
+  {
+    "id": "f739b03d-476e-4799-94e8-5abedf7cb8f2",
+    "name": "Gone Girl",
+    "author": "Gillian Flynn",
+    "format": "audiobook",
+    "average_score": 4.2,
+    "categories": ["Mystery", "Thriller"],
+    "position": 7,
+    "image": "https://m.media-amazon.com/images/I/71NV0obX14L._SL1500_.jpg"
+  },
+  {
+    "id": "1f812b17-2f41-4a5e-b50a-683d8f3604c1",
+    "name": "The Martian",
+    "author": "Andy Weir",
+    "format": "ebook",
+    "average_score": 4.6,
+    "categories": ["Science Fiction", "Adventure"],
+    "position": 13,
+    "image": "https://example.com/the_martian.jpg"
+  },
+  {
+    "id": "6b44b2d5-9268-4f3d-ae88-6f5788328c81",
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "format": "audiobook",
+    "average_score": 4.5,
+    "categories": ["Classic", "Romance"],
+    "position": 5,
+    "image": "https://example.com/pride_and_prejudice.jpg"
+  },
+  {
+    "id": "3be5b1f1-70c0-4f1e-8f42-0c7c0c4a55f8",
+    "name": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "format": "ebook",
+    "average_score": 3.9,
+    "categories": ["Thriller", "Mystery"],
+    "position": 4,
+    "image": "https://example.com/the_da_vinci_code.jpg"
+  }
+]
