@@ -39,7 +39,7 @@ struct ItemComponent: View {
                 Text(author)
                     .font(.subheadline)
                 StarView(maxRating: 5, rating: score)
-                    .frame(width: 80, height: 15)
+                    .frame(width: 75, height: 15)
             }
         }
         
